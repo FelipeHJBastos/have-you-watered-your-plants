@@ -1,0 +1,19 @@
+{
+  "name": "have-you-watered-your-plants",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "author": "FelipeHJBastos <felipe.123.bastos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "sucrase": "^3.21.0"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "firebase": "^9.6.11"
+  }
+}
